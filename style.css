@@ -1,0 +1,71 @@
+.cal-contianer {
+    margin: 3px auto;
+    width: 475px;
+    padding: 10px 10px;
+    background-color: rgb(4, 255, 238);
+    border-radius: 20px;
+    border: 2px solid skyblue;
+    margin-bottom: 30px;
+    justify-content: space-between;
+    display: line;
+    box-shadow:5px;
+}
+
+.btn {
+    width: 100%;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    background-color: rgb(197, 195, 195);
+    padding: 10px 5px;
+    padding-left: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btn1 {
+    width: 100%;
+    font-size: 40px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    background-color: rgb(197, 195, 195);
+
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin: 6px;
+
+
+}
+
+button {
+    font-size: 35px;
+    width: 50%;
+    height: 50%;
+    color: black;
+    justify-content: space-between;
+    padding: 10px 5px;
+    margin: 10px;
+    align-items: center;
+
+}
+
+button:hover {
+    background-color: whitesmoke;
+}
